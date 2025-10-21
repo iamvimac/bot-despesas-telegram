@@ -1,6 +1,6 @@
 # 🤖 Bot de Controle de Despesas - Telegram
 
-Um bot simples para o Telegram que ajuda você e sua esposa a controlar despesas domésticas.
+Um bot simples para o Telegram para controlar despesas domésticas.
 
 ## 📋 Sobre o Projeto
 
